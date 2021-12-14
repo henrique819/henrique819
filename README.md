@@ -1,10 +1,8 @@
-**Luis Henrique Shikasho**
+
+<h2>Luis Henrique Shikasho</h2> 
 
 ![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin)
 https://www.linkedin.com/in/luis-henrique-shikasho/
-
-
-Olá! 
 
 Cursando graduação tecnológica em Banco de Dados pela FIAP.
 Competências relacionada a tecnologias:
@@ -16,6 +14,11 @@ Competências relacionada a tecnologias:
 • MySQL
 • Oracle
 • Python
+
+
+
+
+
 
 
 
