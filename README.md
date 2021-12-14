@@ -24,15 +24,16 @@
   
 Cursando graduação tecnológica em Banco de Dados pela FIAP.
 Competências relacionada a tecnologias:
- <p> Business Intelligence </p>
- <p>Excel</p>
- <p>Power BI</p>
- <p>Pentaho Data Integration</p>
- <p>Modelagem de dados</p>
- <p>MySQL</p>
- <p>Oracle</p>
- <p>Python</p>
-
+<ul>
+<li>Business Intelligence</li>
+<li>Excel</li>
+<li>Power BI</li>
+<li>Pentaho Data Integration</li>
+<li>Modelagem de dados</li>
+<li>MySQL</li>
+<li>Oracle</li>
+<li>Python</li>
+ </ul>
 
 
 <!--
