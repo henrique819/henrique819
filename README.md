@@ -13,6 +13,7 @@ Competências relacionada a tecnologias:
 • Python
 
 
+
 <!--
 **henrique819/henrique819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
