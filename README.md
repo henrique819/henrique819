@@ -26,13 +26,13 @@ Competências relacionada a tecnologias:
 • Oracle
 • Python
 
-
+<!--
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloanalista&layout=compact)](https://github.com/pauloanalista/github-readme-stats)
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pauloanalista&show_icons=true&count_private=true" />
 </div>
-
+-->
 
 
 
