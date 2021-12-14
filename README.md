@@ -2,9 +2,11 @@
 
 <div align="center">
   <a href="https://github.com/henrique819">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique819&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique819&layout=compact&langs_count=7&theme=dark"/>
+    
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique819&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique819&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -12,8 +14,6 @@
   <img align="center" alt="mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="mssql" height="30" width="170" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img align="center" alt="excel" height="30" width="150" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-
-  
 </div>
   
 
