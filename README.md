@@ -8,12 +8,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/luis-henrique-shikasho/)
 
 
-
+<!--
 ![GitHub followers](https://img.shields.io/github/followers/pauloanalista?style=flat-square)
 ![Twitter Follow](https://img.shields.io/twitter/follow/I_Love_Code?style=flat-square)
 
 <br><br>
-
+-->
 
 Cursando graduação tecnológica em Banco de Dados pela FIAP.
 Competências relacionada a tecnologias:
