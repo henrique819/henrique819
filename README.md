@@ -1,7 +1,7 @@
-#Luis Henrique Shikasho
+**Luis Henrique Shikasho**
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin)]
-(https://www.linkedin.com/in/luis-henrique-shikasho/)
+![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin)
+https://www.linkedin.com/in/luis-henrique-shikasho/
 
 
 Olá! 
