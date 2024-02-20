@@ -27,7 +27,7 @@ Graduado em Banco de Dados pela FIAP, e também em Gestão em Logística, trago 
 
 Principais competências:
 <ul>
-Modelagem de dados transacional (OLTP)</li>
+<li>Modelagem de dados transacional (OLTP)</li>
 <li>Modelagem Dimensional (OLAP)</li>
 <li>Banco de dados (SQL): SQL Server, Oracle, MySQL e PostGreSQL</li>
 <li>Banco de dados (NoSQL): MongoDB, Neo4J, Cassandra e Redis</li>
@@ -45,20 +45,6 @@ Modelagem de dados transacional (OLTP)</li>
 <li>Metodologia Ágil</li>
  </ul>
  
-Cursando graduação tecnológica em Banco de Dados pela FIAP.
-Competências relacionada a tecnologias:
-<ul>
-<li>Business Intelligence</li>
-<li>ETL</li>
-<li>Excel</li>
-<li>Power BI</li>
-<li>Pentaho Data Integration</li>
-<li>Modelagem de dados</li>
-<li>MySQL</li>
-<li>Oracle</li>
-<li>Python</li>
- </ul>
-
 
 <!--
 **henrique819/henrique819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
