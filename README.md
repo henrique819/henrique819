@@ -21,7 +21,30 @@
 </div>
   
   
-  
+
+
+Graduado em Banco de Dados pela FIAP, e também em Gestão em Logística, trago uma sólida bagagem acadêmica para meu percurso profissional.
+
+Principais competências:
+<ul>
+Modelagem de dados transacional (OLTP)</li>
+<li>Modelagem Dimensional (OLAP)</li>
+<li>Banco de dados (SQL): SQL Server, Oracle, MySQL e PostGreSQL</li>
+<li>Banco de dados (NoSQL): MongoDB, Neo4J, Cassandra e Redis</li>
+<li>Programação SQL: T-SQL, PL/SQL</li>
+<li>Data Warehouse</li>
+<li>Power BI e Power Query</li>
+<li>ETL / ELT: Pentaho PDI, Talend e SSIS (SQL Server Integration Services) </li>
+<li>Python</li>
+<li>AWS</li>
+<li>AZURE</li>
+<li>GCP</li>
+<li>OCI</li>
+<li>Docker</li>
+<li>Engenharia de dados, Business Intelligence e Analytics</li>
+<li>Metodologia Ágil</li>
+ </ul>
+ 
 Cursando graduação tecnológica em Banco de Dados pela FIAP.
 Competências relacionada a tecnologias:
 <ul>
