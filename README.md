@@ -5,7 +5,7 @@ Graduado em Banco de dados pelo Centro Universitário FIAP e atuando como analis
 - Superior em Banco de dados pelo Centro Universitário FIAP
 2021 - 2023
 
-​- Superior em Logística pela SBTEC                                          
+- Superior em Logística pela SBTEC                                          
 2018 - 2019
 
 ## IDIOMAS
