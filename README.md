@@ -14,31 +14,15 @@ Graduado em Banco de Dados pela FIAP e também em Gestão em Logística, trago u
 - **2,5 anos** de experiência na área de dados.
 - **8 anos** de experiência na área de infraestrutura.
 
-## Habilidades
-| Tecnologia        | Nível          | Experiência (anos) |
-|-------------------|----------------|--------------------|
-| Apache Airflow    | Avançado       | 2,5                |
-| Google Cloud      | Intermediário  | 3                  |
-| SQL               | Avançado       | 5                  |
-| Power BI          | Intermediário  | 2                  |
-| Power BI          | Intermediário  | 2                  |
-| Power BI          | Intermediário  | 2                  |
-| Power BI          | Intermediário  | 2                  |
-| Power BI          | Intermediário  | 2                  |
-| Power BI          | Intermediário  | 2                  |
-| Power BI          | Intermediário  | 2                  |
-| Power BI          | Intermediário  | 2                  |
-| Power BI          | Intermediário  | 2                  |
-| Power BI          | Intermediário  | 2                  |
-| Power BI          | Intermediário  | 2                  |
-| Power BI          | Intermediário  | 2                  |
-
 ## Formação Acadêmica
-**Superior em Banco de Dados (Completo)**  
-Centro Universitário FIAP (07/2021 - 07/2023)
+**Superior em Banco de Dados (Completo)**
+- Centro Universitário FIAP (07/2021 - 07/2023)
 
-**Superior em Logística (Completo)**  
-Faculdade São Bernardo de Tecnologia (01/2018 - 12/2019)
+**Superior em Logística (Completo)**
+- Faculdade São Bernardo de Tecnologia (01/2018 - 12/2019)
+
+## Idiomas
+- Inglês (Intermediário)
 
 ## Experiência Profissional
 
@@ -82,6 +66,21 @@ Faculdade São Bernardo de Tecnologia (01/2018 - 12/2019)
 - Linux
 - Power BI, DAX e M
 
-## Contato
-
-
+## Habilidades e Projetos
+| Tecnologia        | Projetos |
+|-------------------|----------|
+| Apache Airflow    |[Projetos Apache Airflow](https://www.google.com.br) |
+| Google Cloud Composer |[Projetos Apache Airflow](https://www.google.com.br) |
+| GCP    |[Projetos Apache Airflow](https://www.google.com.br) |
+| Azure    |[Projetos Apache Airflow](https://www.google.com.br) |
+| AWS    |[Projetos Apache Airflow](https://www.google.com.br) |
+| BigQuery    |[Projetos Apache Airflow](https://www.google.com.br) |
+| SQL Server    |[Projetos Apache Airflow](https://www.google.com.br) |
+| Oracle    |[Projetos Apache Airflow](https://www.google.com.br) |
+| T-SQL    |[Projetos Apache Airflow](https://www.google.com.br) |
+| PL/SQL    |[Projetos Apache Airflow](https://www.google.com.br) |
+| HDFS    |[Projetos Apache Airflow](https://www.google.com.br) |
+| Hive    |[Projetos Apache Airflow](https://www.google.com.br) |
+| Apache Airflow    |[Projetos Apache Airflow](https://www.google.com.br) |
+| Apache Airflow    |[Projetos Apache Airflow](https://www.google.com.br) |
+| Apache Airflow    |[Projetos Apache Airflow](https://www.google.com.br) |
