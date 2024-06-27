@@ -27,10 +27,51 @@ Graduado em Banco de dados pelo Centro Universitário FIAP e atuando como analis
 - Databricks
 
 ## EXPERIÊNCIA PROFISSIONAL
-- Analista de Dados / BI Júnior                                                       ​ 
-- Orange Fox            
-- Período: 08/2023 - Atual
-- Atividades realizadas:
+#### CONSULTOR NA ÁREA DE DADOS / TECNOLOGIA (ANALISTA E ENGENHEIRO DE DADOS / BI)
+Empresa: Pefisa / Pernambucanas            
+Período: 04/2023 - 06/2024
+Atividades realizadas:
+Orquestração e Automação de Dados:
+- Apache Airflow
+- Google Cloud Composer
+
+Plataformas de Nuvem:
+- Google Cloud Platform (GCP)
+- Microsoft Azure
+
+ETL/ELT:
+- Azure Data Factory
+- Apache Spark
+
+Programação:
+- Python
+
+Bancos de Dados:
+- Google BigQuery
+- Microsoft SQL Server
+- Apache Hive
+- Cloudera Impala
+
+Ferramentas de Interação com Dados:
+- Hue
+- Apache Zeppelin
+
+Controle de versionamento:
+- Bitbucket
+
+Visualização de dados:
+- Power BI
+
+Governança de Dados:
+- LGPD (Lei Geral de Proteção de Dados)
+- Implementação de políticas e procedimentos de governança de dados
+- Monitoramento e garantia de qualidade dos dados
+- Gestão de metadados e catálogos de dados
+
+#### ANALISTA DE DADOS / BI                                                        ​ 
+Empresa: Orangefox Tecnologia da Informação             
+Período: 08/2023 - 04/2024
+Atividades realizadas:
 . Realizar o levantamento de requisitos e mapeamento de processos.
 . Realizar o desenvolvimento de documentações envolvendo desde a arquitetura de dados, processos até fluxos de trabalhos.
 . Atualizar follow up das tarefas.
@@ -44,12 +85,12 @@ Graduado em Banco de dados pelo Centro Universitário FIAP e atuando como analis
 . IBM Mainframe 
 . Pentaho PDI, Alteryx, Python
 . Power BI, DAX e M           
-. Metodologia Kanban      
-                              
-- Estágio na área de dados                                                  
-- Science Valley Research Institute            
-- Período: 08/2022 - 08/2023
-- Atividades realizadas:
+. Metodologia Kanban
+
+#### ESTAGIÁRIO NA ÁREA DE DADOS E TECNOLOGIA                                                 
+Empresa: Science Valley Research Institute            
+Período: 09/2022 - 08/2023
+Atividades realizadas:
 . Participar de reuniões gerenciais e reuniões de refinamentos para identificar as necessidades das áreas internas e do negócio.
 . Elaborar soluções para as necessidades das áreas internas e do negócio.
 . Realizar o levantamento de requisitos e mapeamento de processos.
