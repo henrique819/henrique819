@@ -71,7 +71,7 @@ Graduado em Banco de Dados pela FIAP e também em Gestão em Logística, trago u
 ### Cloud Computing
 | Tecnologia | Projetos |
 |------------|----------|
-| GCP        | [Projetos GCP](https://www.google.com.br) |
+| GCP        | [Projetos GCP](1_protifolio.md) |
 | Azure      | [Projetos Azure](https://www.google.com.br) |
 | AWS        | [Projetos AWS](https://www.google.com.br) |
 
