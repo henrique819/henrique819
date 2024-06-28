@@ -67,20 +67,33 @@ Graduado em Banco de Dados pela FIAP e também em Gestão em Logística, trago u
 - Power BI, DAX e M
 
 ## Habilidades e Projetos
-| Tecnologia        | Projetos |
-|-------------------|----------|
-| Apache Airflow    |[Projetos Apache Airflow](https://www.google.com.br) |
-| Google Cloud Composer |[Projetos Apache Airflow](https://www.google.com.br) |
-| GCP    |[Projetos Apache Airflow](https://www.google.com.br) |
-| Azure    |[Projetos Apache Airflow](https://www.google.com.br) |
-| AWS    |[Projetos Apache Airflow](https://www.google.com.br) |
-| BigQuery    |[Projetos Apache Airflow](https://www.google.com.br) |
-| SQL Server    |[Projetos Apache Airflow](https://www.google.com.br) |
-| Oracle    |[Projetos Apache Airflow](https://www.google.com.br) |
-| T-SQL    |[Projetos Apache Airflow](https://www.google.com.br) |
-| PL/SQL    |[Projetos Apache Airflow](https://www.google.com.br) |
-| HDFS    |[Projetos Apache Airflow](https://www.google.com.br) |
-| Hive    |[Projetos Apache Airflow](https://www.google.com.br) |
-| Apache Airflow    |[Projetos Apache Airflow](https://www.google.com.br) |
-| Apache Airflow    |[Projetos Apache Airflow](https://www.google.com.br) |
-| Apache Airflow    |[Projetos Apache Airflow](https://www.google.com.br) |
+
+### Cloud Computing
+| Tecnologia | Projetos |
+|------------|----------|
+| GCP        | [Projetos GCP](https://www.google.com.br) |
+| Azure      | [Projetos Azure](https://www.google.com.br) |
+| AWS        | [Projetos AWS](https://www.google.com.br) |
+
+### Orquestração de Dados
+| Tecnologia               | Projetos |
+|--------------------------|----------|
+| Apache Airflow           | [Projetos Apache Airflow](https://www.google.com.br) |
+| Google Cloud Composer    | [Projetos Google Cloud Composer](https://www.google.com.br) |
+
+### Banco de Dados (SQL)
+| Tecnologia | Projetos |
+|------------|----------|
+| BigQuery   | [Projetos BigQuery](https://www.google.com.br) |
+| SQL Server | [Projetos SQL Server](https://www.google.com.br) |
+| Oracle     | [Projetos Oracle](https://www.google.com.br) |
+| T-SQL      | [Projetos T-SQL](https://www.google.com.br) |
+| PL/SQL     | [Projetos PL/SQL](https://www.google.com.br) |
+
+### Ecossistema Hadoop
+| Tecnologia       | Projetos |
+|------------------|----------|
+| HDFS             | [Projetos HDFS](https://www.google.com.br) |
+| Hive             | [Projetos Hive](https://www.google.com.br) |
+
+
